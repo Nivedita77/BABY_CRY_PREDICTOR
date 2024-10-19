@@ -1,6 +1,6 @@
 Baby Cry Detection
 This repository contains an end-to-end project for detecting the reasons behind a baby's cry
-using machine learning techniques and deploying the model using Flask.
+using machine learning techniques and deploying the model using Flask. Get dataset from kaggle
 Overview
 The project involves training a machine learning model to classify the reasons behind a
 baby's cry into five classes: tired or lack of sleep, burping, hunger or exhaustion, discomfort
